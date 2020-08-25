@@ -22,7 +22,7 @@ $(document).ready(function () {
 
     $(function () {
         count = 0;
-        var title = ["student", "developer", "gamer", "translator", "human"];
+        var title = ["caroline", "web-developer", "game-developer (dubbing/sound)", "translator (games/apps/websites)", "full-time BDO tester"];
         setInterval(function () {
           count++;
           $("#title").fadeOut(600, function () {
